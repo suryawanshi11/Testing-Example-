@@ -8,5 +8,9 @@ public class Ex {
 		System.out.println("done");
 
 	}
+	public void m1()
+	{
+	System.out.println("start");	
+	}
 
 }
